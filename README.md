@@ -11,6 +11,6 @@
 
 ![image](https://github.com/user-attachments/assets/6bae9adc-d3b1-43ae-b06a-5dd0b647318f)
 
-<h1>Updata Data</h1>
+<h1>Update Data</h1>
 
 <h1>Delete Data</h1>
